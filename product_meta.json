@@ -1,0 +1,24 @@
+{
+  "number": 14,
+  "product_id": "JLZ-EDU-AG-002",
+  "chinese_name": "内容营销运营",
+  "english_name": "Content Marketing Agent",
+  "repository_name": "edu-content-marketing-agent",
+  "product_type": "Agent",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-content-marketing-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "机构定位、课程矩阵、目标客群、渠道现状、内容资产和历史表现",
+  "main_output": "内容定位、栏目矩阵、选题库、渠道分工、发布节奏、素材清单和复盘指标",
+  "package_entries": [
+    "edu-content-marketing-agent/.codebuddy-plugin/plugin.json",
+    "edu-content-marketing-agent/agents/edu-content-marketing-agent.md",
+    "edu-content-marketing-agent/avatars/expert.png",
+    "edu-content-marketing-agent/README.md"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "edu-content-marketing-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Content Marketing Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Content Marketing Agent",
-    "zh": ""
+    "zh": "教培内容营销运营专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Content Marketing Agent, producing reviewable plans with human checkpoints.",

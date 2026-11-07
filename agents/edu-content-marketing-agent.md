@@ -6,7 +6,7 @@ displayName:
   zh: '内容营销运营'
 profession:
   en: 'Content Marketing Agent'
-  zh: ''
+  zh: '教培内容营销运营专家'
 maxTurns: 50
 ---
 
